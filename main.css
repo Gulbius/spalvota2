@@ -1,0 +1,58 @@
+.pirma{
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+    background-color:rgb(171,167,204);
+}
+.antra{
+    height: 500px;
+    background-color: rgb(11, 128, 0);
+    border: 1px solid black;
+    text-align: center;
+}
+.stulp1{
+    height: 500px;
+    background-color: rgb(205,201,228);
+    border: 1px solid black;
+    text-align: center;
+}  
+.stulp2{
+    text-align: center;
+    height: 500px;
+    background-color: blueviolet;
+    border: 1px solid black;
+}  
+.stulp3{
+    text-align: center;
+    height: 500px;
+    background-color:rgb(205,201,228);
+    border: 1px solid black;
+
+}  
+
+.virsutine{
+    height: 100px;
+    background-color:rgb(220,221,223);
+    text-align: center;
+    border: 1px solid black;
+}
+.vidurine{
+    text-align: center;
+    background-color: rgb(255,255,255);
+    height: 300px;
+    border: 1px solid black;
+}
+.apatine{
+    background-color: rgb(220,221,223);
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+.trecia{
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+    background-color:rgb(171,167,204);
+
+}
